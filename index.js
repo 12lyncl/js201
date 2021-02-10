@@ -13,7 +13,7 @@
 'use strict';
 
 function id() {
-  // e.g. return "UP654321";
+  return "UP923510";
 }
 
 function fn() {
